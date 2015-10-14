@@ -1,0 +1,9 @@
+[Unit]
+Description=Sample web service
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/python /home/root/web.py
+
+[Install]
+WantedBy=multi-user.target
