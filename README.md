@@ -1,5 +1,4 @@
 # CMIT Galileo Guide
-## Подготовка
 
 Многословный гайд лежит в гугл-документах: https://docs.google.com/document/d/1QNcJ7VeIvZLh3lA9eZFoJLBgMOuZNS68HPT3qI2KZA8/edit?pli=1
 
@@ -7,6 +6,7 @@
 
 
 
+## Подготовка
 
 Загрузить файлы на плату:
 ```
