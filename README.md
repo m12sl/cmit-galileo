@@ -1,6 +1,10 @@
 # CMIT Galileo Guide
 ## Подготовка
 
+Вопросы можно задавать на e-mail: m12sl@yandex.ru
+
+
+
 Загрузить файлы на плату:
 ```
 scp -r ./ root@galileo:/home/root
